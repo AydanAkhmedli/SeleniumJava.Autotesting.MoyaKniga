@@ -1,4 +1,14 @@
 # SeleniumJava.Autotesting.MoyaKniga
+
+<p align="center"><a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="100" alt="Selenium"/></a></p>
+
+<p align="center" class="hero__title"><b>All-in-one Browser Automation Framework:<br />Web Crawling / Scraping / Testing / Reporting</b></p>
+
+<p align="center"><a href="https://seleniumbase.io"><img src="https://img.shields.io/badge/docs-seleniumbase.io-11BBAA.svg" alt="SeleniumBase Docs"/></a></p>
+
+[Selenium Server](https://www.selenium.dev/downloads/) supports two sets of commands simultaneously - for
+new version [(WebDriver Google Chrome)](https://chromedriver.chromium.org/downloads) and old version [(Selenium RC)](https://www.selenium.dev/documentation/legacy/selenium_1/).
+
 # Установка Java
 
 `JDK` — это полнофункциональный комплект разработки программного обеспечения для Java, включающая JRE,
