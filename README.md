@@ -6,9 +6,6 @@
 
 <p align="center"><a href="https://seleniumbase.io"><img src="https://img.shields.io/badge/docs-seleniumbase.io-11BBAA.svg" alt="SeleniumBase Docs"/></a></p>
 
-[Selenium Server](https://www.selenium.dev/downloads/) supports two sets of commands simultaneously - for
-new version [(WebDriver Google Chrome)](https://chromedriver.chromium.org/downloads) and old version [(Selenium RC)](https://www.selenium.dev/documentation/legacy/selenium_1/).
-
 # Установка Java
 
 `JDK` — это полнофункциональный комплект разработки программного обеспечения для Java, включающая JRE,
@@ -16,6 +13,7 @@ new version [(WebDriver Google Chrome)](https://chromedriver.chromium.org/downlo
 Debugger), существующая для создания и компиляции программ. Если вы хотите просто запустить Java программу в
 вашем браузере или компьютере, то вам будет достаточно
 установленного JRE. Но если же планируете программировать на Java, то вам также понадобится пакет JDK.
+
 Если вы хотите просто запустить `Java` программу в 
 вашем браузере или компьютере, то вам будет достаточно установленного `JRE`. 
 Но если же планируете программировать на Java, то вам также понадобится пакет
